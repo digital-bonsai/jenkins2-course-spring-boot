@@ -14,8 +14,7 @@
 	<organization>
 		<name>Pivotal Software, Inc.</name>
 		<url>http://www.spring.io</url>
-		<!-- I need to research all of this -->
-	</organization>
+		</organization>
 	<properties>
 		<main.basedir>${basedir}/../..</main.basedir>
 	</properties>
