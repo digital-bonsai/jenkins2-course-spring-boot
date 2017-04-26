@@ -12,6 +12,7 @@
 	<description>Spring Boot Atmosphere Sample</description>
 	<url>http://projects.spring.io/spring-boot/</url>
 	<organization>
+	<!-- Need to learn about Java beans -->
 		<name>Pivotal Software, Inc.</name>
 		<url>http://www.spring.io</url>
 		</organization>
